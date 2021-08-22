@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://rokoksurya.pages.dev/sitemap.xml
